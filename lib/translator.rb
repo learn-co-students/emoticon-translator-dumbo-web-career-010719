@@ -32,6 +32,4 @@ def get_english_meaning(file, emo)
   else
     return "Sorry, that emoticon was not found"
   end
-
-
 end
